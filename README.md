@@ -165,7 +165,12 @@ TextField textField = new TextField();
 }
 
 ## 四、效果的实现
+### 登录界面
 ![image](https://github.com/ghostlwx/shiyan2/blob/master/1.png)
+### 选课界面
+![image](https://github.com/ghostlwx/shiyan2/blob/master/2.png)
+### 退课界面
+![image](https://github.com/ghostlwx/shiyan2/blob/master/3.png)
 ## 五、实验总结   
 通过本次的实验学习，受益匪浅。用Java对字符串的排版。如何将一长串的字符串经过编辑，排版成想要的格式。本次实验我尝试使用参数，配合String[]的数组，在把数组内的字符串信息进行更改。其实设计成七言律诗的格式并添加上标点符号，用if条件语句就可以实现。查找字符出现的次数，用indexOf等实现
 
