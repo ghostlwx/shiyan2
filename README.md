@@ -1,4 +1,5 @@
 
+
 ## 一、实验目的
 * 分析学生选课系统
 * 使用GUI窗体及其组件设计窗体界面
@@ -167,3 +168,4 @@ TextField textField = new TextField();
 ![image](https://github.com/ghostlwx/lwxku/blob/master/three.png)
 ## 五、实验总结   
 通过本次的实验学习，受益匪浅。用Java对字符串的排版。如何将一长串的字符串经过编辑，排版成想要的格式。本次实验我尝试使用参数，配合String[]的数组，在把数组内的字符串信息进行更改。其实设计成七言律诗的格式并添加上标点符号，用if条件语句就可以实现。查找字符出现的次数，用indexOf等实现
+
